@@ -1,4 +1,4 @@
-Year,Month,Combo,SITE,Fathead Minnow,Stickleback,Iowa Darter,Yellow Perch,Common Carp,Black Bullhead,Green Sunfish,Fish Total,Hrs in Wetland,No.Traps,Fish/hr/trap,WRAP,Treatment
+year,month,sample,site,fathead,stickleback,iowadarter,perch,carp,bullhead,sunfish,ftotal,wetlandh,trap,fish.hr.t,wrap,treatment
 2015,June,15_1_June,Beck,148,0,1,0,0,1,0,150,24,3,2.083333333,72,C
 2015,June,15_1_June,Buffalo Lake,0,0,0,0,0,0,0,0,48,3,0,67.5,C
 2015,June,15_1_June,Eriksrud,0,305,149,0,0,0,0,454,24,3,6.305555556,68,T
