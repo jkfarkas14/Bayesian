@@ -1,0 +1,319 @@
+Site,PS,month,MY,year,fishhr,T
+Beck,large,1,1,1,0.041666667,C
+Beck,large,1,4,2,0,C
+Beck,large,1,4,2,0.041271151,C
+Beck,large,0,3,2,0,C
+Beck,large,0,3,2,0,C
+Beck,large,2,5,2,0,C
+Beck,large,2,5,2,0,C
+Buffalo Lake,large,1,1,1,0,C
+Buffalo Lake,large,1,4,2,0,C
+Buffalo Lake,large,1,4,2,0,C
+Buffalo Lake,large,2,5,2,0,C
+Buffalo Lake,large,2,5,2,0,C
+Eriksrud,large,1,1,1,0,T
+Eriksrud,large,1,4,2,0,T
+Eriksrud,large,1,4,2,0,T
+Eriksrud,large,0,3,2,0.040567951,T
+Eriksrud,large,0,3,2,0.040567951,T
+Eriksrud,large,2,5,2,0,T
+Eriksrud,large,2,5,2,0,T
+Fods Slough,large,1,1,1,0,S
+Fods Slough,large,1,4,2,0,S
+Fods Slough,large,0,3,2,0,S
+Fods Slough,large,0,3,2,0,S
+Fods Slough,large,2,5,2,0,S
+Fods Slough,large,2,5,2,0,S
+Fods Slough II,large,1,4,2,0.133333333,S
+Fods Slough II,large,1,4,2,0,S
+Gerdink,large,1,1,1,0,T
+Gerdink,large,1,4,2,0,T
+Gerdink,large,1,4,2,0,T
+Gerdink,large,0,3,2,0,T
+Gerdink,large,0,3,2,0,T
+Gerdink,large,2,5,2,0,T
+Gerdink,large,2,5,2,0,T
+Habeger,large,1,1,1,0,T
+Habeger,large,1,4,2,0,T
+Habeger,large,1,4,2,0,T
+Habeger,large,0,3,2,0,T
+Habeger,large,0,3,2,0,T
+Habeger,large,2,5,2,0,T
+Habeger,large,2,5,2,0,T
+Healy Slough,large,1,1,1,0.208333333,T
+Healy Slough,large,1,4,2,0,T
+Healy Slough,large,1,4,2,0.042698548,T
+Healy Slough,large,0,3,2,0,T
+Healy Slough,large,0,3,2,0,T
+Lake Verm,large,1,1,1,0,C
+Lost Lake,large,1,1,1,0,C
+Petri II,large,1,1,1,0,S
+Petri II,large,1,4,2,0,S
+Petri II,large,1,4,2,0,S
+Petri II,large,0,3,2,0,S
+Petri II,large,0,3,2,0.034188034,S
+Petri II,large,2,5,2,0,S
+Petri II,large,2,5,2,0,S
+Pettigrew,large,1,1,1,0,C
+Pittenger,large,1,1,1,0,C
+Pittenger,large,1,4,2,0,C
+Pittenger,large,1,4,2,0,C
+Pittenger,large,0,3,2,0,C
+Pittenger,large,0,3,2,0,C
+Pittenger,large,2,5,2,0,C
+Pittenger,large,2,5,2,0,C
+Ramsey,large,1,1,1,0,S
+Ramsey,large,1,4,2,0.107933081,S
+Ramsey,large,1,4,2,0.107933081,S
+Ramsey,large,0,3,2,0.04040404,S
+Ramsey,large,0,3,2,0.080808081,S
+Ramsey,large,2,5,2,0.105708245,S
+Ramsey,large,2,5,2,0.687103594,S
+Schaefer,large,1,1,1,0,S
+Schaefer,large,1,4,2,0.037383178,S
+Schaefer,large,1,4,2,0.037383178,S
+Schaefer,large,0,3,2,0,S
+Schaefer,large,0,3,2,0,S
+Schaefer,large,2,5,2,0,S
+Schaefer,large,2,5,2,0,S
+Swartz,large,1,1,1,0,T
+Swartz,large,1,4,2,0,T
+Swartz,large,1,4,2,0,T
+Swartz,large,0,3,2,0,T
+Swartz,large,0,3,2,0,T
+Swartz I,large,2,5,2,0.137488543,T
+Swartz I,large,2,5,2,0,T
+Swartz II,large,2,5,2,0,T
+Swartz II,large,2,5,2,0,T
+Volker,large,1,1,1,0,T
+Volker,large,2,5,2,0,T
+Volker,large,2,5,2,0,T
+Ziegler,large,1,1,1,0.041666667,S
+Ziegler,large,1,4,2,0.049333991,S
+Ziegler,large,1,4,2,0.88801184,S
+Ziegler,large,0,3,2,0,S
+Ziegler,large,0,3,2,0,S
+Ziegler,large,2,5,2,0,S
+Ziegler,large,2,5,2,0,S
+Beck,small,2,2,1,0.041666667,C
+Beck,small,2,2,1,0,C
+Beck,small,1,1,1,4.708333333,C
+Beck,small,1,1,1,1.5,C
+Beck,small,1,4,2,0,C
+Beck,small,1,4,2,0,C
+Beck,small,1,4,2,0,C
+Beck,small,1,4,2,0,C
+Beck,small,0,3,2,0,C
+Beck,small,0,3,2,0,C
+Beck,small,0,3,2,0,C
+Beck,small,0,3,2,0,C
+Beck,small,2,5,2,0,C
+Beck,small,2,5,2,0,C
+Beck,small,2,5,2,0,C
+Beck,small,2,5,2,0.154878678,C
+Buffalo Lake,small,1,1,1,0,C
+Buffalo Lake,small,1,1,1,0,C
+Buffalo Lake,small,1,4,2,0,C
+Buffalo Lake,small,1,4,2,0.772727273,C
+Buffalo Lake,small,1,4,2,0,C
+Buffalo Lake,small,1,4,2,0,C
+Buffalo Lake,small,2,5,2,0,C
+Buffalo Lake,small,2,5,2,0.047619048,C
+Buffalo Lake,small,2,5,2,2.428571429,C
+Buffalo Lake,small,2,5,2,1.952380952,C
+Eriksrud,small,2,2,1,0,T
+Eriksrud,small,2,2,1,0.041666667,T
+Eriksrud,small,1,1,1,11.95833333,T
+Eriksrud,small,1,1,1,6.958333333,T
+Eriksrud,small,1,4,2,0.336842105,T
+Eriksrud,small,1,4,2,3.031578947,T
+Eriksrud,small,1,4,2,1.473684211,T
+Eriksrud,small,1,4,2,0.210526316,T
+Eriksrud,small,0,3,2,0,T
+Eriksrud,small,0,3,2,0,T
+Eriksrud,small,0,3,2,0,T
+Eriksrud,small,0,3,2,0,T
+Eriksrud,small,2,5,2,0.0509684,T
+Eriksrud,small,2,5,2,0.101936799,T
+Eriksrud,small,2,5,2,0.509683996,T
+Eriksrud,small,2,5,2,0,T
+Fods Slough,small,2,2,1,0,S
+Fods Slough,small,2,2,1,0,S
+Fods Slough,small,1,1,1,0,S
+Fods Slough,small,1,1,1,0,S
+Fods Slough,small,1,4,2,0.031746032,S
+Fods Slough,small,1,4,2,0,S
+Fods Slough,small,0,3,2,0,S
+Fods Slough,small,0,3,2,0,S
+Fods Slough,small,0,3,2,0,S
+Fods Slough,small,0,3,2,0,S
+Fods Slough,small,2,5,2,0,S
+Fods Slough,small,2,5,2,0.040683483,S
+Fods Slough,small,2,5,2,0,S
+Fods Slough,small,2,5,2,0,S
+Fods Slough II,small,1,4,2,0,S
+Fods Slough II,small,1,4,2,0,S
+Fods Slough II,small,1,4,2,0.444444444,S
+Gerdink,small,1,1,1,0,T
+Gerdink,small,1,1,1,0,T
+Gerdink,small,1,4,2,0.053821313,T
+Gerdink,small,1,4,2,1.184068891,T
+Gerdink,small,1,4,2,8.665231432,T
+Gerdink,small,1,4,2,3.013993541,T
+Gerdink,small,0,3,2,0.036589828,T
+Gerdink,small,0,3,2,0,T
+Gerdink,small,0,3,2,0.036589828,T
+Gerdink,small,0,3,2,0.475667764,T
+Gerdink,small,2,5,2,0,T
+Gerdink,small,2,5,2,0,T
+Gerdink,small,2,5,2,0,T
+Gerdink,small,2,5,2,0,T
+Habeger,small,2,2,1,0.291666667,T
+Habeger,small,2,2,1,2.125,T
+Habeger,small,1,1,1,0.020833333,T
+Habeger,small,1,1,1,0,T
+Habeger,small,1,4,2,2.245430809,T
+Habeger,small,1,4,2,3.080939948,T
+Habeger,small,1,4,2,7.467362924,T
+Habeger,small,0,3,2,0,T
+Habeger,small,0,3,2,0.085106383,T
+Habeger,small,0,3,2,0,T
+Habeger,small,0,3,2,0.042553191,T
+Habeger,small,2,5,2,0.198412698,T
+Habeger,small,2,5,2,2.976190476,T
+Habeger,small,2,5,2,0.357142857,T
+Habeger,small,2,5,2,0.753968254,T
+Habeger II,small,0,3,2,0.047732697,T
+Habeger II,small,0,3,2,0.62052506,T
+Habeger II,small,0,3,2,0.334128878,T
+Habeger II,small,0,3,2,0.047732697,T
+Healy Slough,small,2,2,1,0.041666667,T
+Healy Slough,small,2,2,1,0.166666667,T
+Healy Slough,small,1,1,1,0.083333333,T
+Healy Slough,small,1,1,1,1.166666667,T
+Healy Slough,small,1,4,2,5.977796755,T
+Healy Slough,small,1,4,2,6.191289496,T
+Healy Slough,small,1,4,2,4.953031597,T
+Healy Slough,small,1,4,2,4.39795047,T
+Healy Slough,small,0,3,2,0.039093041,T
+Healy Slough,small,0,3,2,0,T
+Healy Slough,small,0,3,2,0,T
+Healy Slough,small,0,3,2,0,T
+Lake Verm,small,1,1,1,0,C
+Lake Verm,small,1,1,1,0,C
+Lost Lake,small,1,1,1,0,C
+Lost Lake,small,1,1,1,0,C
+Petri II,small,2,2,1,0,S
+Petri II,small,2,2,1,0,S
+Petri II,small,1,1,1,0,S
+Petri II,small,1,1,1,0,S
+Petri II,small,1,4,2,0.067046597,S
+Petri II,small,1,4,2,3.955749246,S
+Petri II,small,1,4,2,2.849480389,S
+Petri II,small,1,4,2,1.005698961,S
+Petri II,small,0,3,2,8.205128205,S
+Petri II,small,0,3,2,0.034188034,S
+Petri II,small,0,3,2,0.205128205,S
+Petri II,small,0,3,2,0.170940171,S
+Petri II,small,2,5,2,0,S
+Petri II,small,2,5,2,5.885036496,S
+Petri II,small,2,5,2,7.116788321,S
+Petri II,small,2,5,2,7.801094891,S
+Pettigrew,small,1,1,1,0,C
+Pettigrew,small,1,1,1,0,C
+Pittenger,small,2,2,1,3.458333333,C
+Pittenger,small,2,2,1,5.75,C
+Pittenger,small,1,1,1,0.375,C
+Pittenger,small,1,1,1,3,C
+Pittenger,small,1,4,2,3.382663848,C
+Pittenger,small,1,4,2,0.105708245,C
+Pittenger,small,1,4,2,0.317124736,C
+Pittenger,small,1,4,2,0,C
+Pittenger,small,0,3,2,0,C
+Pittenger,small,0,3,2,0,C
+Pittenger,small,0,3,2,0,C
+Pittenger,small,0,3,2,0,C
+Pittenger,small,2,5,2,0.571428571,C
+Pittenger,small,2,5,2,0.714285714,C
+Pittenger,small,2,5,2,0.285714286,C
+Pittenger,small,2,5,2,0.357142857,C
+Ramsey,small,2,2,1,0,S
+Ramsey,small,2,2,1,0,S
+Ramsey,small,1,1,1,0,S
+Ramsey,small,1,1,1,0,S
+Ramsey,small,1,4,2,9.336211549,S
+Ramsey,small,1,4,2,6.637884512,S
+Ramsey,small,1,4,2,6.907717215,S
+Ramsey,small,1,4,2,13.49163519,S
+Ramsey,small,0,3,2,0.525252525,S
+Ramsey,small,0,3,2,0.121212121,S
+Ramsey,small,0,3,2,1.818181818,S
+Ramsey,small,0,3,2,6.464646465,S
+Ramsey,small,2,5,2,0.21141649,S
+Ramsey,small,2,5,2,1.21564482,S
+Ramsey,small,2,5,2,0,S
+Ramsey,small,2,5,2,0,S
+Schaefer,small,2,2,1,0.3125,S
+Schaefer,small,2,2,1,5.5625,S
+Schaefer,small,1,1,1,1.104166667,S
+Schaefer,small,1,1,1,0.3125,S
+Schaefer,small,1,4,2,4.14953271,S
+Schaefer,small,1,4,2,1.570093458,S
+Schaefer,small,1,4,2,0.747663551,S
+Schaefer,small,1,4,2,0.672897196,S
+Schaefer,small,0,3,2,1.923076923,S
+Schaefer,small,0,3,2,2.635327635,S
+Schaefer,small,0,3,2,3.846153846,S
+Schaefer,small,0,3,2,3.454415954,S
+Schaefer,small,2,5,2,0.043668122,S
+Schaefer,small,2,5,2,0,S
+Schaefer,small,2,5,2,0.218340611,S
+Schaefer,small,2,5,2,0.174672489,S
+Swartz,small,2,2,1,0.041666667,T
+Swartz,small,2,2,1,0.166666667,T
+Swartz,small,1,1,1,0,T
+Swartz,small,1,1,1,0,T
+Swartz,small,1,4,2,0.502723083,T
+Swartz,small,1,4,2,2.848764139,T
+Swartz,small,1,4,2,0.544616674,T
+Swartz,small,1,4,2,0.209467951,T
+Swartz,small,0,3,2,6.428571429,T
+Swartz,small,0,3,2,2.619047619,T
+Swartz,small,0,3,2,1.19047619,T
+Swartz,small,0,3,2,3.095238095,T
+Swartz I,small,2,5,2,0.54995417,T
+Swartz I,small,2,5,2,0.045829514,T
+Swartz I,small,2,5,2,0.320806599,T
+Swartz I,small,2,5,2,0.87076077,T
+Swartz II,small,1,4,2,0,T
+Swartz II,small,1,4,2,0.863185153,T
+Swartz II,small,1,4,2,0.302114804,T
+Swartz II,small,1,4,2,0.215796288,T
+Swartz II,small,2,5,2,0.274851122,T
+Swartz II,small,2,5,2,1.14521301,T
+Swartz II,small,2,5,2,0.549702245,T
+Swartz II,small,2,5,2,0.137425561,T
+Volker,small,2,2,1,0,T
+Volker,small,2,2,1,0,T
+Volker,small,1,1,1,0,T
+Volker,small,1,1,1,0,T
+Volker,small,2,5,2,0,T
+Volker,small,2,5,2,0,T
+Volker,small,2,5,2,0,T
+Volker,small,2,5,2,0,T
+Ziegler,small,2,2,1,1.166666667,S
+Ziegler,small,2,2,1,0.125,S
+Ziegler,small,1,1,1,3.541666667,S
+Ziegler,small,1,1,1,3.75,S
+Ziegler,small,1,4,2,4.045387272,S
+Ziegler,small,1,4,2,8.38677849,S
+Ziegler,small,1,4,2,0.789343858,S
+Ziegler,small,1,4,2,0.246669956,S
+Ziegler,small,0,3,2,0.227272727,S
+Ziegler,small,0,3,2,0.863636364,S
+Ziegler,small,0,3,2,0,S
+Ziegler,small,0,3,2,0,S
+Ziegler,small,2,5,2,0.066666667,S
+Ziegler,small,2,5,2,0,S
+Ziegler,small,2,5,2,0.133333333,S
+Ziegler,small,2,5,2,0,S
