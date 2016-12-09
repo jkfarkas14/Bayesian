@@ -1,0 +1,299 @@
+Site,PS,trap_S,M,month,MY,Y,year,fishhr,T,treatment
+Beck,large,1,June,1,1,2015,1,0.041666667,C,0
+Beck,large,1,June,1,4,2016,2,0,C,0
+Beck,large,1,June,1,4,2016,2,0.041271151,C,0
+Beck,large,1,May,0,3,2016,2,0,C,0
+Beck,large,1,May,0,3,2016,2,0,C,0
+Beck,large,1,July,2,5,2016,2,0,C,0
+Beck,large,1,July,2,5,2016,2,0,C,0
+Beck,small,0,July,2,2,2015,1,0.041666667,C,0
+Beck,small,0,July,2,2,2015,1,0,C,0
+Beck,small,0,June,1,1,2015,1,4.708333333,C,0
+Beck,small,0,June,1,1,2015,1,1.5,C,0
+Beck,small,0,June,1,4,2016,2,0,C,0
+Beck,small,0,June,1,4,2016,2,0,C,0
+Beck,small,0,June,1,4,2016,2,0,C,0
+Beck,small,0,June,1,4,2016,2,0,C,0
+Beck,small,0,May,0,3,2016,2,0,C,0
+Beck,small,0,May,0,3,2016,2,0,C,0
+Beck,small,0,May,0,3,2016,2,0,C,0
+Beck,small,0,May,0,3,2016,2,0,C,0
+Beck,small,0,July,2,5,2016,2,0,C,0
+Beck,small,0,July,2,5,2016,2,0,C,0
+Beck,small,0,July,2,5,2016,2,0,C,0
+Beck,small,0,July,2,5,2016,2,0.154878678,C,0
+Buffalo Lake,large,1,June,1,1,2015,1,0,C,0
+Buffalo Lake,large,1,June,1,4,2016,2,0,C,0
+Buffalo Lake,large,1,June,1,4,2016,2,0,C,0
+Buffalo Lake,large,1,July,2,5,2016,2,0,C,0
+Buffalo Lake,large,1,July,2,5,2016,2,0,C,0
+Buffalo Lake,small,0,June,1,1,2015,1,0,C,0
+Buffalo Lake,small,0,June,1,1,2015,1,0,C,0
+Buffalo Lake,small,0,June,1,4,2016,2,0,C,0
+Buffalo Lake,small,0,June,1,4,2016,2,0.772727273,C,0
+Buffalo Lake,small,0,June,1,4,2016,2,0,C,0
+Buffalo Lake,small,0,June,1,4,2016,2,0,C,0
+Buffalo Lake,small,0,July,2,5,2016,2,0,C,0
+Buffalo Lake,small,0,July,2,5,2016,2,0.047619048,C,0
+Buffalo Lake,small,0,July,2,5,2016,2,2.428571429,C,0
+Buffalo Lake,small,0,July,2,5,2016,2,1.952380952,C,0
+Eriksrud,large,1,June,1,1,2015,1,0,T,2
+Eriksrud,large,1,June,1,4,2016,2,0,T,2
+Eriksrud,large,1,June,1,4,2016,2,0,T,2
+Eriksrud,large,1,May,0,3,2016,2,0.040567951,T,2
+Eriksrud,large,1,May,0,3,2016,2,0.040567951,T,2
+Eriksrud,large,1,July,2,5,2016,2,0,T,2
+Eriksrud,large,1,July,2,5,2016,2,0,T,2
+Eriksrud,small,0,July,2,2,2015,1,0,T,2
+Eriksrud,small,0,July,2,2,2015,1,0.041666667,T,2
+Eriksrud,small,0,June,1,1,2015,1,11.95833333,T,2
+Eriksrud,small,0,June,1,1,2015,1,6.958333333,T,2
+Eriksrud,small,0,June,1,4,2016,2,0.336842105,T,2
+Eriksrud,small,0,June,1,4,2016,2,3.031578947,T,2
+Eriksrud,small,0,June,1,4,2016,2,1.473684211,T,2
+Eriksrud,small,0,June,1,4,2016,2,0.210526316,T,2
+Eriksrud,small,0,May,0,3,2016,2,0,T,2
+Eriksrud,small,0,May,0,3,2016,2,0,T,2
+Eriksrud,small,0,May,0,3,2016,2,0,T,2
+Eriksrud,small,0,May,0,3,2016,2,0,T,2
+Eriksrud,small,0,July,2,5,2016,2,0.0509684,T,2
+Eriksrud,small,0,July,2,5,2016,2,0.101936799,T,2
+Eriksrud,small,0,July,2,5,2016,2,0.509683996,T,2
+Eriksrud,small,0,July,2,5,2016,2,0,T,2
+Fods Slough,large,1,June,1,1,2015,1,0,S,1
+Fods Slough,large,1,June,1,4,2016,2,0,S,1
+Fods Slough,large,1,May,0,3,2016,2,0,S,1
+Fods Slough,large,1,May,0,3,2016,2,0,S,1
+Fods Slough,large,1,July,2,5,2016,2,0,S,1
+Fods Slough,large,1,July,2,5,2016,2,0,S,1
+Fods Slough,small,0,July,2,2,2015,1,0,S,1
+Fods Slough,small,0,July,2,2,2015,1,0,S,1
+Fods Slough,small,0,June,1,1,2015,1,0,S,1
+Fods Slough,small,0,June,1,1,2015,1,0,S,1
+Fods Slough,small,0,June,1,4,2016,2,0.031746032,S,1
+Fods Slough,small,0,June,1,4,2016,2,0,S,1
+Fods Slough,small,0,May,0,3,2016,2,0,S,1
+Fods Slough,small,0,May,0,3,2016,2,0,S,1
+Fods Slough,small,0,May,0,3,2016,2,0,S,1
+Fods Slough,small,0,May,0,3,2016,2,0,S,1
+Fods Slough,small,0,July,2,5,2016,2,0,S,1
+Fods Slough,small,0,July,2,5,2016,2,0.040683483,S,1
+Fods Slough,small,0,July,2,5,2016,2,0,S,1
+Fods Slough,small,0,July,2,5,2016,2,0,S,1
+Fods Slough II,large,1,June,1,4,2016,2,0.133333333,S,1
+Fods Slough II,large,1,June,1,4,2016,2,0,S,1
+Fods Slough II,small,0,June,1,4,2016,2,0,S,1
+Fods Slough II,small,0,June,1,4,2016,2,0,S,1
+Fods Slough II,small,0,June,1,4,2016,2,0.444444444,S,1
+Gerdink,large,1,June,1,1,2015,1,0,T,2
+Gerdink,large,1,June,1,4,2016,2,0,T,2
+Gerdink,large,1,June,1,4,2016,2,0,T,2
+Gerdink,large,1,May,0,3,2016,2,0,T,2
+Gerdink,large,1,May,0,3,2016,2,0,T,2
+Gerdink,large,1,July,2,5,2016,2,0,T,2
+Gerdink,large,1,July,2,5,2016,2,0,T,2
+Gerdink,small,0,June,1,1,2015,1,0,T,2
+Gerdink,small,0,June,1,1,2015,1,0,T,2
+Gerdink,small,0,June,1,4,2016,2,0.053821313,T,2
+Gerdink,small,0,June,1,4,2016,2,1.184068891,T,2
+Gerdink,small,0,June,1,4,2016,2,8.665231432,T,2
+Gerdink,small,0,June,1,4,2016,2,3.013993541,T,2
+Gerdink,small,0,May,0,3,2016,2,0.036589828,T,2
+Gerdink,small,0,May,0,3,2016,2,0,T,2
+Gerdink,small,0,May,0,3,2016,2,0.036589828,T,2
+Gerdink,small,0,May,0,3,2016,2,0.475667764,T,2
+Gerdink,small,0,July,2,5,2016,2,0,T,2
+Gerdink,small,0,July,2,5,2016,2,0,T,2
+Gerdink,small,0,July,2,5,2016,2,0,T,2
+Gerdink,small,0,July,2,5,2016,2,0,T,2
+Habeger,large,1,June,1,1,2015,1,0,T,2
+Habeger,large,1,June,1,4,2016,2,0,T,2
+Habeger,large,1,June,1,4,2016,2,0,T,2
+Habeger,large,1,May,0,3,2016,2,0,T,2
+Habeger,large,1,May,0,3,2016,2,0,T,2
+Habeger,large,1,July,2,5,2016,2,0,T,2
+Habeger,large,1,July,2,5,2016,2,0,T,2
+Habeger,small,0,July,2,2,2015,1,0.291666667,T,2
+Habeger,small,0,July,2,2,2015,1,2.125,T,2
+Habeger,small,0,June,1,1,2015,1,0.020833333,T,2
+Habeger,small,0,June,1,1,2015,1,0,T,2
+Habeger,small,0,June,1,4,2016,2,2.245430809,T,2
+Habeger,small,0,June,1,4,2016,2,3.080939948,T,2
+Habeger,small,0,June,1,4,2016,2,7.467362924,T,2
+Habeger,small,0,May,0,3,2016,2,0,T,2
+Habeger,small,0,May,0,3,2016,2,0.085106383,T,2
+Habeger,small,0,May,0,3,2016,2,0,T,2
+Habeger,small,0,May,0,3,2016,2,0.042553191,T,2
+Habeger,small,0,July,2,5,2016,2,0.198412698,T,2
+Habeger,small,0,July,2,5,2016,2,2.976190476,T,2
+Habeger,small,0,July,2,5,2016,2,0.357142857,T,2
+Habeger,small,0,July,2,5,2016,2,0.753968254,T,2
+Habeger II,small,0,May,0,3,2016,2,0.047732697,T,2
+Habeger II,small,0,May,0,3,2016,2,0.62052506,T,2
+Habeger II,small,0,May,0,3,2016,2,0.334128878,T,2
+Habeger II,small,0,May,0,3,2016,2,0.047732697,T,2
+Healy Slough,large,1,June,1,1,2015,1,0.208333333,T,2
+Healy Slough,large,1,June,1,4,2016,2,0,T,2
+Healy Slough,large,1,June,1,4,2016,2,0.042698548,T,2
+Healy Slough,large,1,May,0,3,2016,2,0,T,2
+Healy Slough,large,1,May,0,3,2016,2,0,T,2
+Healy Slough,small,0,July,2,2,2015,1,0.041666667,T,2
+Healy Slough,small,0,July,2,2,2015,1,0.166666667,T,2
+Healy Slough,small,0,June,1,1,2015,1,0.083333333,T,2
+Healy Slough,small,0,June,1,1,2015,1,1.166666667,T,2
+Healy Slough,small,0,June,1,4,2016,2,5.977796755,T,2
+Healy Slough,small,0,June,1,4,2016,2,6.191289496,T,2
+Healy Slough,small,0,June,1,4,2016,2,4.953031597,T,2
+Healy Slough,small,0,June,1,4,2016,2,4.39795047,T,2
+Healy Slough,small,0,May,0,3,2016,2,0.039093041,T,2
+Healy Slough,small,0,May,0,3,2016,2,0,T,2
+Healy Slough,small,0,May,0,3,2016,2,0,T,2
+Healy Slough,small,0,May,0,3,2016,2,0,T,2
+Petri II,large,1,June,1,1,2015,1,0,S,1
+Petri II,large,1,June,1,4,2016,2,0,S,1
+Petri II,large,1,June,1,4,2016,2,0,S,1
+Petri II,large,1,May,0,3,2016,2,0,S,1
+Petri II,large,1,May,0,3,2016,2,0.034188034,S,1
+Petri II,large,1,July,2,5,2016,2,0,S,1
+Petri II,large,1,July,2,5,2016,2,0,S,1
+Petri II,small,0,July,2,2,2015,1,0,S,1
+Petri II,small,0,July,2,2,2015,1,0,S,1
+Petri II,small,0,June,1,1,2015,1,0,S,1
+Petri II,small,0,June,1,1,2015,1,0,S,1
+Petri II,small,0,June,1,4,2016,2,0.067046597,S,1
+Petri II,small,0,June,1,4,2016,2,3.955749246,S,1
+Petri II,small,0,June,1,4,2016,2,2.849480389,S,1
+Petri II,small,0,June,1,4,2016,2,1.005698961,S,1
+Petri II,small,0,May,0,3,2016,2,8.205128205,S,1
+Petri II,small,0,May,0,3,2016,2,0.034188034,S,1
+Petri II,small,0,May,0,3,2016,2,0.205128205,S,1
+Petri II,small,0,May,0,3,2016,2,0.170940171,S,1
+Petri II,small,0,July,2,5,2016,2,0,S,1
+Petri II,small,0,July,2,5,2016,2,5.885036496,S,1
+Petri II,small,0,July,2,5,2016,2,7.116788321,S,1
+Petri II,small,0,July,2,5,2016,2,7.801094891,S,1
+Pittenger,large,1,June,1,1,2015,1,0,C,0
+Pittenger,large,1,June,1,4,2016,2,0,C,0
+Pittenger,large,1,June,1,4,2016,2,0,C,0
+Pittenger,large,1,May,0,3,2016,2,0,C,0
+Pittenger,large,1,May,0,3,2016,2,0,C,0
+Pittenger,large,1,July,2,5,2016,2,0,C,0
+Pittenger,large,1,July,2,5,2016,2,0,C,0
+Pittenger,small,0,July,2,2,2015,1,3.458333333,C,0
+Pittenger,small,0,July,2,2,2015,1,5.75,C,0
+Pittenger,small,0,June,1,1,2015,1,0.375,C,0
+Pittenger,small,0,June,1,1,2015,1,3,C,0
+Pittenger,small,0,June,1,4,2016,2,3.382663848,C,0
+Pittenger,small,0,June,1,4,2016,2,0.105708245,C,0
+Pittenger,small,0,June,1,4,2016,2,0.317124736,C,0
+Pittenger,small,0,June,1,4,2016,2,0,C,0
+Pittenger,small,0,May,0,3,2016,2,0,C,0
+Pittenger,small,0,May,0,3,2016,2,0,C,0
+Pittenger,small,0,May,0,3,2016,2,0,C,0
+Pittenger,small,0,May,0,3,2016,2,0,C,0
+Pittenger,small,0,July,2,5,2016,2,0.571428571,C,0
+Pittenger,small,0,July,2,5,2016,2,0.714285714,C,0
+Pittenger,small,0,July,2,5,2016,2,0.285714286,C,0
+Pittenger,small,0,July,2,5,2016,2,0.357142857,C,0
+Ramsey,large,1,June,1,1,2015,1,0,S,1
+Ramsey,large,1,June,1,4,2016,2,0.107933081,S,1
+Ramsey,large,1,June,1,4,2016,2,0.107933081,S,1
+Ramsey,large,1,May,0,3,2016,2,0.04040404,S,1
+Ramsey,large,1,May,0,3,2016,2,0.080808081,S,1
+Ramsey,large,1,July,2,5,2016,2,0.105708245,S,1
+Ramsey,large,1,July,2,5,2016,2,0.687103594,S,1
+Ramsey,small,0,July,2,2,2015,1,0,S,1
+Ramsey,small,0,July,2,2,2015,1,0,S,1
+Ramsey,small,0,June,1,1,2015,1,0,S,1
+Ramsey,small,0,June,1,1,2015,1,0,S,1
+Ramsey,small,0,June,1,4,2016,2,9.336211549,S,1
+Ramsey,small,0,June,1,4,2016,2,6.637884512,S,1
+Ramsey,small,0,June,1,4,2016,2,6.907717215,S,1
+Ramsey,small,0,June,1,4,2016,2,13.49163519,S,1
+Ramsey,small,0,May,0,3,2016,2,0.525252525,S,1
+Ramsey,small,0,May,0,3,2016,2,0.121212121,S,1
+Ramsey,small,0,May,0,3,2016,2,1.818181818,S,1
+Ramsey,small,0,May,0,3,2016,2,6.464646465,S,1
+Ramsey,small,0,July,2,5,2016,2,0.21141649,S,1
+Ramsey,small,0,July,2,5,2016,2,1.21564482,S,1
+Ramsey,small,0,July,2,5,2016,2,0,S,1
+Ramsey,small,0,July,2,5,2016,2,0,S,1
+Schaefer,large,1,June,1,1,2015,1,0,S,1
+Schaefer,large,1,June,1,4,2016,2,0.037383178,S,1
+Schaefer,large,1,June,1,4,2016,2,0.037383178,S,1
+Schaefer,large,1,May,0,3,2016,2,0,S,1
+Schaefer,large,1,May,0,3,2016,2,0,S,1
+Schaefer,large,1,July,2,5,2016,2,0,S,1
+Schaefer,large,1,July,2,5,2016,2,0,S,1
+Schaefer,small,0,July,2,2,2015,1,0.3125,S,1
+Schaefer,small,0,July,2,2,2015,1,5.5625,S,1
+Schaefer,small,0,June,1,1,2015,1,1.104166667,S,1
+Schaefer,small,0,June,1,1,2015,1,0.3125,S,1
+Schaefer,small,0,June,1,4,2016,2,4.14953271,S,1
+Schaefer,small,0,June,1,4,2016,2,1.570093458,S,1
+Schaefer,small,0,June,1,4,2016,2,0.747663551,S,1
+Schaefer,small,0,June,1,4,2016,2,0.672897196,S,1
+Schaefer,small,0,May,0,3,2016,2,1.923076923,S,1
+Schaefer,small,0,May,0,3,2016,2,2.635327635,S,1
+Schaefer,small,0,May,0,3,2016,2,3.846153846,S,1
+Schaefer,small,0,May,0,3,2016,2,3.454415954,S,1
+Schaefer,small,0,July,2,5,2016,2,0.043668122,S,1
+Schaefer,small,0,July,2,5,2016,2,0,S,1
+Schaefer,small,0,July,2,5,2016,2,0.218340611,S,1
+Schaefer,small,0,July,2,5,2016,2,0.174672489,S,1
+Swartz,large,1,June,1,1,2015,1,0,T,2
+Swartz,large,1,June,1,4,2016,2,0,T,2
+Swartz,large,1,June,1,4,2016,2,0,T,2
+Swartz,large,1,May,0,3,2016,2,0,T,2
+Swartz,large,1,May,0,3,2016,2,0,T,2
+Swartz,small,0,July,2,2,2015,1,0.041666667,T,2
+Swartz,small,0,July,2,2,2015,1,0.166666667,T,2
+Swartz,small,0,June,1,1,2015,1,0,T,2
+Swartz,small,0,June,1,1,2015,1,0,T,2
+Swartz,small,0,June,1,4,2016,2,0.502723083,T,2
+Swartz,small,0,June,1,4,2016,2,2.848764139,T,2
+Swartz,small,0,June,1,4,2016,2,0.544616674,T,2
+Swartz,small,0,June,1,4,2016,2,0.209467951,T,2
+Swartz,small,0,May,0,3,2016,2,6.428571429,T,2
+Swartz,small,0,May,0,3,2016,2,2.619047619,T,2
+Swartz,small,0,May,0,3,2016,2,1.19047619,T,2
+Swartz,small,0,May,0,3,2016,2,3.095238095,T,2
+Swartz I,large,1,July,2,5,2016,2,0.137488543,T,2
+Swartz I,large,1,July,2,5,2016,2,0,T,2
+Swartz I,small,0,July,2,5,2016,2,0.54995417,T,2
+Swartz I,small,0,July,2,5,2016,2,0.045829514,T,2
+Swartz I,small,0,July,2,5,2016,2,0.320806599,T,2
+Swartz I,small,0,July,2,5,2016,2,0.87076077,T,2
+Swartz II,large,1,July,2,5,2016,2,0,T,2
+Swartz II,large,1,July,2,5,2016,2,0,T,2
+Swartz II,small,0,June,1,4,2016,2,0,T,2
+Swartz II,small,0,June,1,4,2016,2,0.863185153,T,2
+Swartz II,small,0,June,1,4,2016,2,0.302114804,T,2
+Swartz II,small,0,June,1,4,2016,2,0.215796288,T,2
+Swartz II,small,0,July,2,5,2016,2,0.274851122,T,2
+Swartz II,small,0,July,2,5,2016,2,1.14521301,T,2
+Swartz II,small,0,July,2,5,2016,2,0.549702245,T,2
+Swartz II,small,0,July,2,5,2016,2,0.137425561,T,2
+Ziegler,large,1,June,1,1,2015,1,0.041666667,S,1
+Ziegler,large,1,June,1,4,2016,2,0.049333991,S,1
+Ziegler,large,1,June,1,4,2016,2,0.88801184,S,1
+Ziegler,large,1,May,0,3,2016,2,0,S,1
+Ziegler,large,1,May,0,3,2016,2,0,S,1
+Ziegler,large,1,July,2,5,2016,2,0,S,1
+Ziegler,large,1,July,2,5,2016,2,0,S,1
+Ziegler,small,0,July,2,2,2015,1,1.166666667,S,1
+Ziegler,small,0,July,2,2,2015,1,0.125,S,1
+Ziegler,small,0,June,1,1,2015,1,3.541666667,S,1
+Ziegler,small,0,June,1,1,2015,1,3.75,S,1
+Ziegler,small,0,June,1,4,2016,2,4.045387272,S,1
+Ziegler,small,0,June,1,4,2016,2,8.38677849,S,1
+Ziegler,small,0,June,1,4,2016,2,0.789343858,S,1
+Ziegler,small,0,June,1,4,2016,2,0.246669956,S,1
+Ziegler,small,0,May,0,3,2016,2,0.227272727,S,1
+Ziegler,small,0,May,0,3,2016,2,0.863636364,S,1
+Ziegler,small,0,May,0,3,2016,2,0,S,1
+Ziegler,small,0,May,0,3,2016,2,0,S,1
+Ziegler,small,0,July,2,5,2016,2,0.066666667,S,1
+Ziegler,small,0,July,2,5,2016,2,0,S,1
+Ziegler,small,0,July,2,5,2016,2,0.133333333,S,1
+Ziegler,small,0,July,2,5,2016,2,0,S,1
