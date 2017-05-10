@@ -1,0 +1,299 @@
+SiteName,Treatment,VisitDate,CaptureMethod
+Beck,Control,15-Jun-15,Large1
+Beck,Control,15-Jun-15,Small1
+Beck,Control,15-Jun-15,Small2
+Beck,Control,13-Jul-15,Small1
+Beck,Control,13-Jul-15,Small2
+Beck,Control,19-May-16,Large1
+Beck,Control,19-May-16,Large2
+Beck,Control,19-May-16,Small1
+Beck,Control,19-May-16,Small2
+Beck,Control,19-May-16,Small3
+Beck,Control,19-May-16,Small4
+Beck,Control,13-Jun-16,Large1
+Beck,Control,13-Jun-16,Med1
+Beck,Control,13-Jun-16,Small1
+Beck,Control,13-Jun-16,Small2
+Beck,Control,13-Jun-16,Small3
+Beck,Control,13-Jun-16,Small4
+Beck,Control,14-Jul-16,Large1
+Beck,Control,14-Jul-16,Large2
+Beck,Control,14-Jul-16,Small1
+Beck,Control,14-Jul-16,Small2
+Beck,Control,14-Jul-16,Small3
+Beck,Control,14-Jul-16,Small4
+Buffalo Lake,Control,17-Jun-15,Small1
+Buffalo Lake,Control,17-Jun-15,Small2
+Buffalo Lake,Control,15-Jun-16,Large1
+Buffalo Lake,Control,15-Jun-16,Large2
+Buffalo Lake,Control,15-Jun-16,Small1
+Buffalo Lake,Control,15-Jun-16,Small2
+Buffalo Lake,Control,15-Jun-16,Small3
+Buffalo Lake,Control,15-Jun-16,Small4
+Buffalo Lake,Control,13-Jul-16,Large1
+Buffalo Lake,Control,13-Jul-16,Large2
+Buffalo Lake,Control,13-Jul-16,Small1
+Buffalo Lake,Control,13-Jul-16,Small2
+Buffalo Lake,Control,13-Jul-16,Small3
+Buffalo Lake,Control,13-Jul-16,Small4
+Ericksrud,Tile,15-Jun-15,Large1
+Ericksrud,Tile,15-Jun-15,Small1
+Ericksrud,Tile,15-Jun-15,Small2
+Ericksrud,Tile,13-Jul-15,Small1
+Ericksrud,Tile,13-Jul-15,Small2
+Ericksrud,Tile,16-May-16,Large1
+Ericksrud,Tile,16-May-16,Large2
+Ericksrud,Tile,16-May-16,Small1
+Ericksrud,Tile,16-May-16,Small2
+Ericksrud,Tile,16-May-16,Small3
+Ericksrud,Tile,16-May-16,Small4
+Ericksrud,Tile,13-Jun-16,Large1
+Ericksrud,Tile,13-Jun-16,Large2
+Ericksrud,Tile,13-Jun-16,Small1
+Ericksrud,Tile,13-Jun-16,Small2
+Ericksrud,Tile,13-Jun-16,Small3
+Ericksrud,Tile,13-Jun-16,Small4
+Ericksrud,Tile,14-Jul-16,Large1
+Ericksrud,Tile,14-Jul-16,Large2
+Ericksrud,Tile,14-Jul-16,Small1
+Ericksrud,Tile,14-Jul-16,Small2
+Ericksrud,Tile,14-Jul-16,Small3
+Ericksrud,Tile,14-Jul-16,Small4
+Fods Slough,Surface,17-Jun-15,Large1
+Fods Slough,Surface,17-Jun-15,Small1
+Fods Slough,Surface,17-Jun-15,Small2
+Fods Slough,Surface,14-Jul-15,Small1
+Fods Slough,Surface,14-Jul-15,Small2
+Fods Slough,Surface,17-May-16,Large1
+Fods Slough,Surface,17-May-16,Large2
+Fods Slough,Surface,17-May-16,Small1
+Fods Slough,Surface,17-May-16,Small2
+Fods Slough,Surface,17-May-16,Small3
+Fods Slough,Surface,17-May-16,Small4
+Fods Slough,Surface,14-Jun-16,Large1
+Fods Slough,Surface,14-Jun-16,Large2
+Fods Slough,Surface,14-Jun-16,Small1
+Fods Slough,Surface,14-Jun-16,Small2
+Fods Slough,Surface,14-Jun-16,Small3
+Fods Slough,Surface,13-Jul-16,Large1
+Fods Slough,Surface,13-Jul-16,Large2
+Fods Slough,Surface,13-Jul-16,Small1
+Fods Slough,Surface,13-Jul-16,Small2
+Fods Slough,Surface,13-Jul-16,Small3
+Fods Slough,Surface,13-Jul-16,Small4
+Gerdink,Tile,15-Jun-15,Large1
+Gerdink,Tile,15-Jun-15,Small1
+Gerdink,Tile,15-Jun-15,Small2
+Gerdink,Tile,16-May-16,Large1
+Gerdink,Tile,16-May-16,Large2
+Gerdink,Tile,16-May-16,Small1
+Gerdink,Tile,16-May-16,Small2
+Gerdink,Tile,16-May-16,Small3
+Gerdink,Tile,16-May-16,Small4
+Gerdink,Tile,13-Jun-16,Large1
+Gerdink,Tile,13-Jun-16,Large2
+Gerdink,Tile,13-Jun-16,Small1
+Gerdink,Tile,13-Jun-16,Small2
+Gerdink,Tile,13-Jun-16,Small3
+Gerdink,Tile,13-Jun-16,Small4
+Gerdink,Tile,14-Jul-16,Large1
+Gerdink,Tile,14-Jul-16,Large2
+Gerdink,Tile,14-Jul-16,Small1
+Gerdink,Tile,14-Jul-16,Small2
+Gerdink,Tile,14-Jul-16,Small3
+Gerdink,Tile,14-Jul-16,Small4
+Habeger,Tile,17-Jun-15,Large1
+Habeger,Tile,17-Jun-15,Small1
+Habeger,Tile,17-Jun-15,Small2
+Habeger,Tile,15-Jul-15,Small1
+Habeger,Tile,15-Jul-15,Small2
+Habeger,Tile,18-May-16,Large1
+Habeger,Tile,18-May-16,Large2
+Habeger,Tile,18-May-16,Small1
+Habeger,Tile,18-May-16,Small2
+Habeger,Tile,18-May-16,Small3
+Habeger,Tile,18-May-16,Small4
+Habeger,Tile,13-Jun-16,Large1
+Habeger,Tile,13-Jun-16,Large2
+Habeger,Tile,13-Jun-16,Small1
+Habeger,Tile,13-Jun-16,Small2
+Habeger,Tile,13-Jun-16,Small3
+Habeger,Tile,14-Jul-16,Large1
+Habeger,Tile,14-Jul-16,Large2
+Habeger,Tile,14-Jul-16,Small1
+Habeger,Tile,14-Jul-16,Small2
+Habeger,Tile,14-Jul-16,Small3
+Habeger,Tile,14-Jul-16,Small4
+Healy Slough,Surface,16-Jun-15,Large1
+Healy Slough,Surface,16-Jun-15,Small1
+Healy Slough,Surface,16-Jun-15,Small2
+Healy Slough,Surface,14-Jul-15,Small1
+Healy Slough,Surface,14-Jul-15,Small2
+Healy Slough,Surface,17-May-16,Large1
+Healy Slough,Surface,17-May-16,Large2
+Healy Slough,Surface,17-May-16,Small1
+Healy Slough,Surface,17-May-16,Small2
+Healy Slough,Surface,17-May-16,Small3
+Healy Slough,Surface,17-May-16,Small4
+Healy Slough,Surface,14-Jun-16,Large1
+Healy Slough,Surface,14-Jun-16,Large2
+Healy Slough,Surface,14-Jun-16,Small1
+Healy Slough,Surface,14-Jun-16,Small2
+Healy Slough,Surface,14-Jun-16,Small3
+Healy Slough,Surface,14-Jun-16,Small4
+Lost Lake,Control,16-Jun-15,Large1
+Lost Lake,Control,16-Jun-15,Small1
+Lost Lake,Control,16-Jun-15,Small2
+Petri II,Surface,16-Jun-15,Large1
+Petri II,Surface,16-Jun-15,Small1
+Petri II,Surface,16-Jun-15,Small2
+Petri II,Surface,14-Jul-15,Small1
+Petri II,Surface,14-Jul-15,Small2
+Petri II,Surface,17-May-16,Large1
+Petri II,Surface,17-May-16,Large2
+Petri II,Surface,17-May-16,Small1
+Petri II,Surface,17-May-16,Small2
+Petri II,Surface,17-May-16,Small3
+Petri II,Surface,17-May-16,Small4
+Petri II,Surface,14-Jun-16,Large1
+Petri II,Surface,14-Jun-16,Large2
+Petri II,Surface,14-Jun-16,Small1
+Petri II,Surface,14-Jun-16,Small2
+Petri II,Surface,14-Jun-16,Small3
+Petri II,Surface,14-Jun-16,Small4
+Petri II,Surface,12-Jul-16,Large1
+Petri II,Surface,12-Jul-16,Large2
+Petri II,Surface,12-Jul-16,Small1
+Petri II,Surface,12-Jul-16,Small2
+Petri II,Surface,12-Jul-16,Small3
+Petri II,Surface,12-Jul-16,Small4
+Pettigrew,Control,17-Jun-15,Large1
+Pettigrew,Control,17-Jun-15,Small1
+Pettigrew,Control,17-Jun-15,Small2
+Pittenger,Control,18-Jun-15,Large1
+Pittenger,Control,18-Jun-15,Small1
+Pittenger,Control,18-Jun-15,Small2
+Pittenger,Control,16-Jul-15,Small1
+Pittenger,Control,16-Jul-15,Small2
+Pittenger,Control,16-May-16,Large1
+Pittenger,Control,16-May-16,Large2
+Pittenger,Control,16-May-16,Small1
+Pittenger,Control,16-May-16,Small2
+Pittenger,Control,16-May-16,Small3
+Pittenger,Control,16-May-16,Small4
+Pittenger,Control,13-Jun-16,Large1
+Pittenger,Control,13-Jun-16,Large2
+Pittenger,Control,13-Jun-16,Small1
+Pittenger,Control,13-Jun-16,Small2
+Pittenger,Control,13-Jun-16,Small3
+Pittenger,Control,14-Jul-16,Large1
+Pittenger,Control,14-Jul-16,Large2
+Pittenger,Control,14-Jul-16,Small1
+Pittenger,Control,14-Jul-16,Small2
+Pittenger,Control,14-Jul-16,Small3
+Pittenger,Control,14-Jul-16,Small4
+Ramsey,Surface,15-Jun-15,Large1
+Ramsey,Surface,15-Jun-15,Small1
+Ramsey,Surface,15-Jun-15,Small2
+Ramsey,Surface,13-Jul-15,Small1
+Ramsey,Surface,13-Jul-15,Small2
+Ramsey,Surface,16-May-16,Large1
+Ramsey,Surface,16-May-16,Large2
+Ramsey,Surface,16-May-16,Small1
+Ramsey,Surface,16-May-16,Small2
+Ramsey,Surface,16-May-16,Small3
+Ramsey,Surface,16-May-16,Small4
+Ramsey,Surface,13-Jun-16,Large1
+Ramsey,Surface,13-Jun-16,Large2
+Ramsey,Surface,13-Jun-16,Small1
+Ramsey,Surface,13-Jun-16,Small2
+Ramsey,Surface,13-Jun-16,Small3
+Ramsey,Surface,13-Jun-16,Small4
+Ramsey,Surface,13-Jul-16,Large1
+Ramsey,Surface,13-Jul-16,Large2
+Ramsey,Surface,13-Jul-16,Small1
+Ramsey,Surface,13-Jul-16,Small2
+Ramsey,Surface,13-Jul-16,Small3
+Ramsey,Surface,13-Jul-16,Small4
+Schaefer,Surface,17-Jun-15,Large1
+Schaefer,Surface,17-Jun-15,Small1
+Schaefer,Surface,17-Jun-15,Small2
+Schaefer,Surface,16-Jul-15,Small1
+Schaefer,Surface,16-Jul-15,Small2
+Schaefer,Surface,17-May-16,Large1
+Schaefer,Surface,17-May-16,Large2
+Schaefer,Surface,17-May-16,Small1
+Schaefer,Surface,17-May-16,Small2
+Schaefer,Surface,17-May-16,Small3
+Schaefer,Surface,17-May-16,Small4
+Schaefer,Surface,14-Jun-16,Large1
+Schaefer,Surface,14-Jun-16,Large2
+Schaefer,Surface,14-Jun-16,Small1
+Schaefer,Surface,14-Jun-16,Small2
+Schaefer,Surface,14-Jun-16,Small3
+Schaefer,Surface,14-Jun-16,Small4
+Schaefer,Surface,13-Jul-16,Large1
+Schaefer,Surface,13-Jul-16,Large2
+Schaefer,Surface,13-Jul-16,Small1
+Schaefer,Surface,13-Jul-16,Small2
+Schaefer,Surface,13-Jul-16,Small3
+Schaefer,Surface,13-Jul-16,Small4
+Swartz,Tile,17-Jun-15,Large1
+Swartz,Tile,17-Jun-15,Small1
+Swartz,Tile,17-Jun-15,Small2
+Swartz,Tile,15-Jul-15,Small1
+Swartz,Tile,15-Jul-15,Small2
+Swartz,Tile,18-May-16,Large1
+Swartz,Tile,18-May-16,Large2
+Swartz,Tile,18-May-16,Small1
+Swartz,Tile,18-May-16,Small2
+Swartz,Tile,18-May-16,Small3
+Swartz,Tile,18-May-16,Small4
+Swartz,Tile,14-Jun-16,Large1
+Swartz,Tile,14-Jun-16,Large2
+Swartz,Tile,14-Jun-16,Small1
+Swartz,Tile,14-Jun-16,Small2
+Swartz,Tile,14-Jun-16,Small3
+Swartz,Tile,14-Jun-16,Small4
+Swartz,Tile,14-Jul-16,Large1
+Swartz,Tile,14-Jul-16,Large2
+Swartz,Tile,14-Jul-16,Small1
+Swartz,Tile,14-Jul-16,Small2
+Swartz,Tile,14-Jul-16,Small3
+Swartz,Tile,14-Jul-16,Small4
+Vermillion Lake,Control,16-Jun-15,Large1
+Vermillion Lake,Control,16-Jun-15,Small1
+Vermillion Lake,Control,16-Jun-15,Small2
+Volker II,Tile,16-Jun-15,Large1
+Volker II,Tile,16-Jun-15,Small1
+Volker II,Tile,14-Jul-15,Small1
+Volker II,Tile,14-Jul-15,Small2
+Volker II,Tile,13-Jul-16,Large1
+Volker II,Tile,13-Jul-16,Large2
+Volker II,Tile,13-Jul-16,Small1
+Volker II,Tile,13-Jul-16,Small2
+Volker II,Tile,13-Jul-16,Small3
+Volker II,Tile,13-Jul-16,Small4
+Ziegler,Surface,18-Jun-15,Large1
+Ziegler,Surface,18-Jun-15,Small1
+Ziegler,Surface,18-Jun-15,Small2
+Ziegler,Surface,13-Jul-15,Small1
+Ziegler,Surface,13-Jul-15,Small2
+Ziegler,Surface,16-May-16,Large1
+Ziegler,Surface,16-May-16,Large2
+Ziegler,Surface,16-May-16,Small1
+Ziegler,Surface,16-May-16,Small2
+Ziegler,Surface,16-May-16,Small3
+Ziegler,Surface,16-May-16,Small4
+Ziegler,Surface,13-Jun-16,Large1
+Ziegler,Surface,13-Jun-16,Med1
+Ziegler,Surface,13-Jun-16,Small1
+Ziegler,Surface,13-Jun-16,Small2
+Ziegler,Surface,13-Jun-16,Small3
+Ziegler,Surface,13-Jun-16,Small4
+Ziegler,Surface,14-Jul-16,Large1
+Ziegler,Surface,14-Jul-16,Large2
+Ziegler,Surface,14-Jul-16,Small1
+Ziegler,Surface,14-Jul-16,Small2
+Ziegler,Surface,14-Jul-16,Small3
+Ziegler,Surface,14-Jul-16,Small4
